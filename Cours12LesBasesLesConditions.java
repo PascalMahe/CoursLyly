@@ -1,4 +1,4 @@
-public class Cours1LesBasesLesVariables {
+public class Cours12LesBasesLesVariables {
 
 	public static void main(args[]){
 		
@@ -64,6 +64,70 @@ public class Cours1LesBasesLesVariables {
 		//------------------------------
 		//  EXERCICES
 		//------------------------------
+		
+		int i = 4;
+		switch(i) {
+            case 1:
+                // ??
+                break;
+            case 2:
+                // ??
+                break;
+            case 3:
+                // ??
+                break;
+            default:
+                // ??
+                break;
+        }
+		
+		
+		int j = 4;
+		if(j < 5){
+			j = 3;
+		}
+		switch(i) {
+            case 1:
+                // ??
+                break;
+            case 2:
+                // ??
+                break;
+            case 3:
+                // ??
+                break;
+			case 4:
+                // ??
+                break;
+            default:
+                // ??
+                break;
+        }
+		
+		
+		int h = 6;
+		if(h <= 5){
+			h = 3;
+		} else {
+			h = 1;
+		}
+		switch(i) {
+            case 1:
+                // ??
+                break;
+            case 2:
+                // ??
+                break;
+            case 3:
+                // ??
+                break;
+			case 4:
+                // ??
+                break;
+            default:
+                // ??
+                break;
+        }
 	}                  
 
 }                      

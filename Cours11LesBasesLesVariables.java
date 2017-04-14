@@ -1,4 +1,4 @@
-public class Cours1LesBasesLesVariables {
+public class Cours11LesBasesLesVariables {
 
 	public static void main(args[]){
 		
@@ -44,6 +44,31 @@ public class Cours1LesBasesLesVariables {
 		tableauDeChaine[5] = "F";
 		tableauDeChaine[6] = "i";
 		tableauDeChaine[7] = "n";
+		
+		//------------------------------
+		//  EXERCICES
+		//------------------------------
+		int i = 0;
+		i = i + 5;
+		i = i + 4;
+		i = i - 4;
+		i == ??;
+		
+		int j = i + 6;
+		j += 1;
+		j == ??;
+		
+		int h = 6;
+		h -= 2;
+		h == ??;
+		
+		String chaine = "bla";
+		chaine = chaine + " bateau";
+		chaine += "gros";
+		chaine == ??;
+		
+		chaine -= "b";
+		chaine == ??;
 	}                  
 
 }                      
